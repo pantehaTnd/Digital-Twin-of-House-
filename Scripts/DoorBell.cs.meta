@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7cde865bceb68214497d29e62563b954
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorbellSound: {fileID: 8300000, guid: ce49aea165357b443931986c6b5cdd4c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
